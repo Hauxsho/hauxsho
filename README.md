@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Srivastava
 
-<!--
-**Hauxsho/hauxsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Engineer | Java • Spring Boot • AWS • PostgreSQL** 
 
-Here are some ideas to get you started:
+💡 Passionate about building real-world systems, simplifying backend workflows, and exploring new tech through side projects and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech I Work With (Daily)
+
+Java • Spring Boot • Spring Batch • PostgreSQL • Redis  
+AWS (S3, SQS, EC2) • Docker • GitHub Actions • JPA • Hibernate • System Design
+
+---
+
+### 🛠️ Previously Worked With
+
+Firebase • Android • Flutter • MySQL  
+HTML • CSS • Thymeleaf • Python
+
+---
+
+### 🌱 Currently Exploring
+
+- Clean architecture patterns in Spring Boot  
+- Redis-based job queues and retries  
+- CI/CD pipeline automation with GitHub Actions  
+- Mobile interfaces with **Flutter**  
+- Personal developer workflows using GitHub + AI/ML
+
+---
+
+> _“I love designing systems that solve real-world problems — and I’m always building something new.”_
