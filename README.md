@@ -1,26 +1,26 @@
-# 👋 Hi, I'm Shubham Srivastava
+# Hi, I'm Shubham Srivastava
 
-🚀 **Backend Engineer | Java • Spring Boot • AWS • PostgreSQL** 
+**Backend Engineer | Java • Spring Boot • AWS • PostgreSQL** 
 
-💡 Passionate about building real-world systems, simplifying backend workflows, and exploring new tech through side projects and experiments.
+Passionate about building real-world systems, simplifying backend workflows, and exploring new tech through side projects and experiments.
 
 ---
 
-### 🧠 Tech I Work With (Daily)
+### Tech I Work With (Daily)
 
 Java • Spring Boot • Spring Batch • PostgreSQL • Redis  
 AWS (S3, SQS, EC2) • Docker • GitHub Actions • JPA • Hibernate • System Design
 
 ---
 
-### 🛠️ Previously Worked With
+### Previously Worked With
 
 Firebase • Android • Flutter • MySQL  
 HTML • CSS • Thymeleaf • Python
 
 ---
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
 - Clean architecture patterns in Spring Boot  
 - Redis-based job queues and retries  
