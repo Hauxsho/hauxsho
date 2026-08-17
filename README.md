@@ -2,7 +2,7 @@
 **Backend Engineer | Java • Spring Boot • AWS • PostgreSQL**
 Passionate about building real-world systems, simplifying backend workflows, and exploring new tech through side projects and experiments.
 
-> Most of my production work lives in private company repos — this profile reflects personal projects and experiments outside work hours.
+> Most of my production work lives in private company repos - this profile reflects personal projects and experiments outside work hours.
 
 ---
 
@@ -27,4 +27,4 @@ HTML • CSS • Thymeleaf • Python
 
 ---
 
-> _“I love designing systems that solve real-world problems — and I’m always building something new.”_
+> _“I love designing systems that solve real-world problems - and I’m always building something new.”_
